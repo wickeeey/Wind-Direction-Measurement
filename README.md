@@ -101,18 +101,6 @@ Raw: 307 | Voltage: 1.50V | Direction: E
 - `README.md` - This file
 - `LICENSE` - MIT License
 
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Author
-
-Your Name - [@yourusername](https://github.com/yourusername)
-
 ## Acknowledgments
 
 - Shandong Shengbao Electronic Technology Co., Ltd (Sensor manufacturer)
